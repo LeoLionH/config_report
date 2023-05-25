@@ -1,0 +1,33 @@
+.searchArea {
+    background-color: lightgray;
+    width: 100%;
+}
+
+.searchBar {
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.select {
+    background-color: white;
+}
+
+.searchElement {
+    margin: 10px;
+}
+
+button {
+    min-height: 46px;
+}
+
+.exportBtn {
+    padding-top: 20px;
+}
+
+#simple-tab-0,
+#simple-tab-1 {
+    min-width: 140px;
+}

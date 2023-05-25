@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(248, 244, 237);
+}
+
+#root {
+  max-width: 1000px;
+  width: 100%;
+}
+
+
+.spinner {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.textContainer {
+  display: block;
+  width: 200px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
